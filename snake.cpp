@@ -2,9 +2,7 @@
 // version 1.1
 
 #include <iostream>
-
 #include <windows.h>
-
 #include <conio.h>
 
 using namespace std;
@@ -91,6 +89,7 @@ void Input() {
                 }
         }
 }
+
 void Logic() {
         int prevX = tailX[0];
         int prevY = tailY[0];
