@@ -1,5 +1,5 @@
 # :snake: Terminal Snake
-Terminal Snake is a simple game based in snake for terminal 
+Terminal Snake is a simple game for terminal.
 
 <img src="https://github.com/coppermilk/Terminal_Snake/blob/main/img/snake.gif">
 
