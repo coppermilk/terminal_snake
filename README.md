@@ -1,7 +1,7 @@
 # :snake: Terminal Snake
 Terminal Snake is a simple game based in snake for terminal 
 
-<img src="https://raw.githubusercontent.com/Windows87/terminal-snake/master/snake.gif">
+<img src="https://github.com/coppermilk/Terminal_Snake/blob/main/img/snake.gif">
 
 ## How to Play :video_game:
 ```console
