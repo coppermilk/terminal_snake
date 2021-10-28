@@ -5,10 +5,11 @@ Terminal Snake is a simple game for terminal.
 
 ## How to Play :video_game:
 ```console
-foo@bar:~$ git clone https://github.com/Windows87/terminal-snake/
-foo@bar:~$ cd terminal-snake
-foo@bar:~$ ./index-linux ## Linux
-foo@bar:~$ index-win.exe ## Windows
-foo@bar:~$ ./index-macos ## Mac OS
+Game optimizing for dvorak for programmers.
+Up - .
+Right - u
+Down - e
+Left - a
+Exit - x
 ```
 
